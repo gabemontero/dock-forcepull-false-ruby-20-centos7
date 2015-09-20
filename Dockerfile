@@ -1,1 +1,1 @@
-FROM docker.io/openshift/ruby-20-centos7
+FROM openshift/ruby-20-centos7
